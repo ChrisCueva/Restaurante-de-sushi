@@ -40,7 +40,7 @@
             this.crystalReportViewer1.Location = new System.Drawing.Point(0, 0);
             this.crystalReportViewer1.Name = "crystalReportViewer1";
             this.crystalReportViewer1.ShowGroupTreeButton = false;
-            this.crystalReportViewer1.Size = new System.Drawing.Size(1188, 574);
+            this.crystalReportViewer1.Size = new System.Drawing.Size(1154, 574);
             this.crystalReportViewer1.TabIndex = 0;
             this.crystalReportViewer1.ToolPanelView = CrystalDecisions.Windows.Forms.ToolPanelViewType.None;
             // 
@@ -48,7 +48,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1188, 574);
+            this.ClientSize = new System.Drawing.Size(1154, 574);
             this.Controls.Add(this.crystalReportViewer1);
             this.Name = "FormReporteFacturas";
             this.Text = "Reporte de Facturas";
