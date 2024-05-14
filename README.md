@@ -1,2 +1,2 @@
 # Restaurante-de-sushi
-Proyecto de la clase L3 
+Proyecto de clase Lenguaje de la Programacion 3 
